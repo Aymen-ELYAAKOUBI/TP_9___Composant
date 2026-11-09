@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+.artifacts/
+TP_9___Composant.pdf
