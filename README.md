@@ -1,8 +1,8 @@
 # TP 9 : Composant Android (M205)
 
-**Filière :** Développement Mobile (DEVOAM 201 - DEVOAM 202)  
+**Filière :** Développement digital option mobile 
 **Niveau :** 2ème année  
-**Institution :** OFPPT  
+**Institution :** CMC Rabat  
 
 ---
 
